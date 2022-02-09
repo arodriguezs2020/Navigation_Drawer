@@ -2,4 +2,10 @@
     <string name="app_name">Navigation_Drawer</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="perfil">Perfil</string>
+    <string name="fotos">Fotos</string>
+    <string name="email">Email</string>
+    <string name="otras_opciones">Otras Opciones</string>
+    <string name="borrar">Borrar</string>
+    <string name="ayuda">Ayuda</string>
 </resources>

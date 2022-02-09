@@ -6,33 +6,33 @@
         <item
             android:id="@+id/menu_perfil"
             android:icon="@drawable/ic_profile"
-            android:title="Perfil" />
+            android:title="@string/perfil" />
 
         <item
             android:id="@+id/menu_fotos"
             android:icon="@android:drawable/ic_menu_gallery"
-            android:title="Fotos" />
+            android:title="@string/fotos" />
 
         <item
             android:id="@+id/menu_mail"
             android:icon="@android:drawable/ic_dialog_email"
-            android:title="Perfil" />
+            android:title="@string/email" />
 
     </group>
 
     <item
-        android:title="Otras Opciones">
+        android:title="@string/otras_opciones">
 
         <menu>
             <item
                 android:id="@+id/menu_borrar"
                 android:icon="@android:drawable/ic_menu_delete"
-                android:title="Borrar" />
+                android:title="@string/borrar" />
 
             <item
                 android:id="@+id/menu_ayuda"
                 android:icon="@android:drawable/ic_menu_help"
-                android:title="Ayuda" />
+                android:title="@string/ayuda" />
         </menu>
     </item>
 
